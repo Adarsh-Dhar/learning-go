@@ -1,3 +1,3 @@
-module go-tut
+module github.com/Adarsh-Dhar/learning-go
 
-go 1.23.1
+go 1.23
